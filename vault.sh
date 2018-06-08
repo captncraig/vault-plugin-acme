@@ -1,0 +1,1 @@
+vault server --dev-root-token-id=root --dev -config=cfg.hcl --log-level=debug
